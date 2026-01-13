@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Edson Mendes! 👋
 
-<!--
-**edsonmendz/edsonmendz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineer** passionate about building scalable web and mobile applications. Currently, I'm exploring the South of Brazil (Santa Catarina) while working on personal projects and looking for my next challenge in tech.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🌍 **English Fluency:** Professional proficiency, ready for international teams.
+- 📍 **Current Location:** Urubici, SC - Brazil.
+- 💻 **Main Stack:** JavaScript, TypeScript, React, React Native, and Node.js.
+- 📱 **Exploring:** Mobile development with Kotlin.
+- 🧠 **Soft Skills:** Problem-solving, adaptability (honed by living as a volunteer/nomad), and clear communication.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+).
+- **Backend:** Node.js, Express, MySQL, MongoDB.
+- **Mobile:** React Native, Kotlin.
+- **Tools:** Git, GitHub, VS Code.
+
+### 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/ed-mendes/)
+- [Email](mailto:edsonmendesfullstack@gmail.com)
+
+---
+*"Adaptability is the simple secret to survival."*
